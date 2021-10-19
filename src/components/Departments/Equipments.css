@@ -1,0 +1,5 @@
+@media only screen and (max-width: 281px) {
+  .eq-image {
+    height: 12rem !important;
+  }
+}

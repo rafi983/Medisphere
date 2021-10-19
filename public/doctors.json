@@ -1,0 +1,47 @@
+[
+  {
+    "img": "https://i.ibb.co/ZdTqMQv/doctor1.png",
+    "name": "John smith",
+    "dept": "Medicine"
+  },
+  {
+    "img": "https://i.ibb.co/RvkjvPj/doctor2.png",
+    "name": "Alex",
+    "dept": "Neuro surgeon"
+  },
+  {
+    "img": "https://i.ibb.co/Kj3cZxB/doctor3.png",
+    "name": "Meghan",
+    "dept": "Diabetic specialist"
+  },
+  {
+    "img": "https://i.ibb.co/zbPz5TX/doctor4.png",
+    "name": "Trevor",
+    "dept": "Orthopedic surgeon"
+  },
+  {
+    "img": "https://i.ibb.co/B4pmghq/doctor5.png",
+    "name": "Emilia",
+    "dept": "Pediatric"
+  },
+  {
+    "img": "https://i.ibb.co/xqjHyvQ/doctor6.png",
+    "name": "George",
+    "dept": "medicine"
+  },
+  {
+    "img": "https://i.ibb.co/mS6Jt5q/doctor7.png",
+    "name": "Harathion",
+    "dept": "Cardiologist"
+  },
+  {
+    "img": "https://i.ibb.co/kG7Wt4W/doctor8.png",
+    "name": "Miley",
+    "dept": "Urologist"
+  },
+  {
+    "img": "https://i.ibb.co/PCSVkv5/doctor9.png",
+    "name": "Cyrus",
+    "dept": "Neuro"
+  }
+]

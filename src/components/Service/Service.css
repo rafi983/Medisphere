@@ -1,0 +1,81 @@
+.image:hover {
+  transform: scale(0.96);
+  transition: all linear 0.5s;
+}
+
+@media only screen and (max-width: 280px) {
+  .image {
+    width: 15rem;
+    height: 18rem;
+  }
+  .card {
+    width: 15rem !important;
+    height: 33rem !important;
+    margin: 0 0.6rem;
+    padding-bottom: 2.5rem;
+  }
+}
+
+@media only screen and (min-width: 281px) and (max-width: 320px) {
+  .image {
+    width: 18rem;
+    height: 18rem;
+  }
+  .card {
+    width: 18rem !important;
+    height: 33rem !important;
+    margin: 0 0.6rem;
+    padding-bottom: 4rem;
+  }
+}
+@media only screen and (min-width: 321px) and (max-width: 360px) {
+  .image {
+    width: 20rem;
+    height: 20rem;
+  }
+  .card {
+    width: 20rem !important;
+    height: 32rem !important;
+    margin: 0 0.6rem;
+    padding-bottom: 4rem;
+  }
+}
+
+@media only screen and (min-width: 361px) and (max-width: 376px) {
+  .image {
+    width: 21rem;
+    height: 22rem;
+  }
+  .card {
+    width: 21rem !important;
+    height: 30rem !important;
+    margin: 0 0.6rem;
+    padding-bottom: 4rem;
+  }
+}
+
+@media only screen and (min-width: 377px) and (max-width: 480px) {
+  .image {
+    width: 23rem;
+    height: 22rem;
+  }
+  .card {
+    width: 23rem !important;
+    height: 30rem !important;
+    margin: 0 0.6rem;
+    padding-bottom: 4rem;
+  }
+}
+
+@media only screen and (min-width: 540px) and (max-width: 991px) {
+  .image {
+    width: 23rem;
+    height: 22rem;
+  }
+  .card {
+    width: 23rem !important;
+    height: 30rem !important;
+    margin: 0 4.3rem;
+    padding-bottom: 4rem;
+  }
+}

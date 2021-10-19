@@ -1,0 +1,42 @@
+#patients {
+  background-color: #81ecec;
+  font-weight: 900;
+}
+#doctors {
+  background-color: #fd79a8;
+  font-weight: 900;
+}
+#rooms {
+  background-color: #ff5e57;
+  font-weight: 900;
+}
+#award {
+  background-color: #d980fa;
+  font-weight: 900;
+}
+.pricing-img {
+  height: 200px;
+  width: 500px;
+}
+.star {
+  color: gold;
+}
+
+@media only screen and (max-width: 991px) {
+  #patients,
+  #doctors,
+  #rooms,
+  #award {
+    margin: 1rem 1.2rem;
+    width: 90%;
+  }
+  .about-heading {
+    margin-top: 1.5rem;
+  }
+  .choose-us {
+    margin-top: 3rem !important;
+  }
+  .choose-us p {
+    font-size: 13px;
+  }
+}
