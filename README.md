@@ -1,6 +1,6 @@
 # Medisphere Website
 
-Live-site: https://medisphere-f443a.web.app/
+Live-site: https://medisphere.netlify.app/
 
 This website is all about a hospital website and it's information.
 
