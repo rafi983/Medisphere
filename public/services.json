@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/HGt45Q9/asthma.jpg",
+    "title": "Asthma",
+    "desc": "Asthma is a long-term disease of the lungs. It causes your airways to get inflamed and narrow, and it makes it hard to breathe"
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/7Y3CHvs/Cardiology.jpg",
+    "title": "Cardiology",
+    "desc": "Cardiology is the study and treatment of disorders of the heart and the blood vessels. A person with heart disease or cardiovascular disease may be referred to a cardiologist."
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/1GGz12F/cancer.jpg",
+    "title": "Cancer",
+    "desc": "Cancer is a condition where cells in a specific part of the body grow and reproduce uncontrollably."
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/zFsRV87/Skin-prick-allergy-to-find-out-kind-of-allergy.jpg",
+    "title": "Skin Allergy",
+    "desc": "Irritated skin can be caused by a variety of factors. These include immune system disorders, medications and infections."
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/BqG1q1c/brain.jpg",
+    "title": "Brain Tumour",
+    "desc": "A brain tumor is a mass or growth of abnormal cells in your brain. Many different types of brain tumors exist."
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/KXSZnVg/kidney.jpg",
+    "title": "Kidney Transplant",
+    "desc": "Kidney transplant or renal transplant is the organ transplant of a kidney into a patient with end-stage kidney disease."
+  },
+  {
+    "id": 7,
+    "img": "https://i.ibb.co/09yQpzB/diabetes.jpg",
+    "title": "Diabetes",
+    "desc": "Diabetes is a chronic (long-lasting) health condition that affects how your body turns food into energy"
+  },
+  {
+    "id": 8,
+    "img": "https://i.ibb.co/WgnPktn/eye.jpg",
+    "title": "Eye care",
+    "desc": "Your eyesight is one of your most important senses: 80% of what we perceive comes through our sense of sight. "
+  },
+  {
+    "id": 9,
+    "img": "https://i.ibb.co/xqH11MK/pediatric.jpg",
+    "title": "Pediatrics",
+    "desc": "Paediatrics is the branch of medicine that involves the medical care of infants, children, and adolescents."
+  }
+]
